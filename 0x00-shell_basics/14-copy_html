@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(cp -u *.html /alx-system_engineering-devops)
+echo $(cp -u *.html /tmp)
+
