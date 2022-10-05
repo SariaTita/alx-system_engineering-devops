@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "$/tmp/correction/0082034927468475187902694169914985954209_5/205/175338/0x00-shell_basics"
+echo "cd"
+
 
