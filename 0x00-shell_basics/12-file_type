@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(type iamafile) > /tmp/
+echo $(type iamafile > /tmp/)
+
