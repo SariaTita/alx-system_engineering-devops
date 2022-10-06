@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(su -i)
+echo $(ls -l /bin/bash)
+
