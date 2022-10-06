@@ -1,3 +1,4 @@
 #!/bin/bash
-echo $(users root)
+echo $(users)
+
 
