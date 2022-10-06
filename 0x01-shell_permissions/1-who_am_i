@@ -1,2 +1,4 @@
 #!/bin/bash
-sudo -i
+echo $(sudo -i)
+
+
