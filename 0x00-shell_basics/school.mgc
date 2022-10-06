@@ -1,3 +1,4 @@
 #!/bin/bash
-file school.mgc *school
+file -m school.mgc *SCHOOL
+
 
