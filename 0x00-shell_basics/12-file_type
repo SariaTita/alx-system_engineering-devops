@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(file iamafile) > /tmp
+echo '$file iamafile' > /tmp
+
