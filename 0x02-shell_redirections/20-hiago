@@ -1,0 +1,2 @@
+#!/bin/bash
+set 's/C//;s/c//'
