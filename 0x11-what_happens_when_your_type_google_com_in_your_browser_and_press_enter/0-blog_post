@@ -1,0 +1,24 @@
+Hello, I'm a student in the ALx program alx_africa , and I'm going to talk about a few basic concepts in programming that I learned recently.
+>>>
+What is a DNS query?
+A DNS query (also known as a DNS request) is a demand for information sent from a user's computer (DNS client) to a DNS server. In most cases a DNS request is sent, to ask for the IP address associated with a domain name. An attempt to reach a domain, is actually a DNS client querying the DNS servers to get the IP address, related to that domain.
+>>>
+What is TCP/IP?
+TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet).
+>>>
+What is a Firewall? 
+To revisit, it’s a device used for network security. It monitors network traffic – both incoming and outgoing – to either allow or block data packets based on its security rules. Its purpose is to create a barrier between your internal network and traffic that flows in from external sources – like the rest of the internet. This blocks hackers, viruses and other malicious traffic. There are pre-set rules to analyze and filter traffic, rerouting data that comes from suspicious or unsecured sources in order to prevent attacks on your network.
+>>>
+What is an SSL Certificate?
+SSL stands for Secure Sockets Layer and, in short, it's the standard technology for keeping an internet connection secure and safeguarding any sensitive data that is being sent between two systems, preventing criminals from reading and modifying any information transferred, including potential personal details. The two systems can be a server and a client (for example, a shopping website and browser) or server to server (for example, an application with personal identifiable information or with payroll information).
+What is an HTTPS Certificate?
+HTTPS (Hyper Text Transfer Protocol Secure) appears in the URL when a website is secured by an SSL certificate. The details of the certificate, including the issuing authority and the corporate name of the website owner, can be viewed by clicking on the lock symbol on the browser bar.
+>>>
+What is a Load Balancer?
+A load balancer is a device that acts as a reverse proxy and distributes network or application traffic across a number of servers. Load balancers are used to increase capacity (concurrent users) and reliability of applications. They improve the overall performance of applications by decreasing the burden on servers associated with managing and maintaining application and network sessions, as well as by performing application-specific tasks.
+>>>
+What is a Web server?
+A web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond.
+#programming
+#communication
+#technology #software #hardware
